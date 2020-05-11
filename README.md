@@ -28,4 +28,4 @@ ln -s <dir>/malkova/config/gunicorn.conf /etc/supervisor/conf.d/gunicorn.conf
 supervisorctl update && supervisorctl restart all
 ```
 
-Django is running in address 127.0.0.1:8000 \õ/
+Django is running in address http://127.0.0.1:8000 \õ/
