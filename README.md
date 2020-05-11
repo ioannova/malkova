@@ -28,4 +28,4 @@ ln -s <dir>/malkova/config/gunicorn.conf /etc/supervisor/conf.d/gunicorn.conf
 supervisorctl update && supervisorctl restart all
 ```
 
-Finish \õ/
+Django is running \õ/
