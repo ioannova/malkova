@@ -1,4 +1,4 @@
-## Malkova project using Django + Virtualend + Gunicorn + Supervisor
+## Malkova project using [Django](https://docs.djangoproject.com) + [Virtualenv](https://docs.python.org/3/library/venv.html) + [Gunicorn](https://docs.gunicorn.org/) + [Supervisor](supervisord.org)
 
 ### Clone project and configure.
 
