@@ -16,7 +16,7 @@ python3 -m venv env
 ln -s env/bin/activate && . activate
 pip install -r requirements.txt
 ```
-- - Exporting new packages in env
+- Exporting new packages installed in env
 ```
 pip freeze > requirements.txt
 ```
